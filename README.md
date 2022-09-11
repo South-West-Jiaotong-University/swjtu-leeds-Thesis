@@ -1,3 +1,5 @@
+[English](https://github.com/South-West-Jiaotong-University/swjtu-leeds-Thesis/blob/main/README.md) | [简体中文](https://github.com/South-West-Jiaotong-University/swjtu-leeds-Thesis/blob/main/README-zh.md)
+
 # swjtu-leeds-Thesis
 This is thesis template for Joint School in LaTeX
 
